@@ -1,0 +1,25 @@
+_repo: Pondich-ry-hoofdstad-van-Fransch-Indi---13-De-Aarde-en-haar-Volken-1906_13697
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verschuur, Gerrit
+    gutenberg_agent_id: '5184'
+    url: http://www.gutenberg.org/2009/agents/5184
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13697'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Pondicherry (India) -- Description and travel'
+title: "Pondichéry, hoofdstad van Fransch-Indië\r\nDe Aarde en haar Volken, 1906"
+url: http://www.gutenberg.org/ebooks/13697
